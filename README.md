@@ -7,4 +7,4 @@
 
 [Synthetic Financial Data with Generative Adversarial Networks (GANs) (blog post)](https://www.mlq.ai/synthetic-data-finance-gans/)
 * [TimeGAN Ported to TF2 Code](https://github.com/stefan-jansen/machine-learning-for-trading/blob/main/21_gans_for_synthetic_time_series/02_TimeGAN_TF2.ipynb) from Stefan Jansen's Machine Learning for Trading book
-
+* [GOOGLE_BIG.csv (Open-High-Low-Close-Adj_Close_Volume)](https://drive.google.com/drive/folders/1vvUEwrdCrmK2b2uGmMd_SKsqJiMMySWw)
